@@ -1,25 +1,44 @@
-# Sorting_Visualizer
+# Sorting Visualizer  
 
-A web application showcasing the inner workings of sorting algorithms.
+A **Sorting Visualizer** built using **HTML**, **CSS**, and **JavaScript**. This project provides a visual representation of popular sorting algorithms, allowing users to observe how different algorithms process and sort data step by step.  
 
-Implemented algorithms:
-1) Bubble sort
-2) Selection sort
-3) Insertion sort
-4) Merge sort
-5) Quick sort
-6) Heap sort
+## 🚀 Features  
+- Interactive visualization of sorting algorithms.  
+- Adjustable array size and speed of sorting.  
+- Includes the following algorithms:  
+  - Bubble Sort  
+  - Selection Sort  
+  - Insertion Sort  
+  - Merge Sort  
+  - Quick Sort  
+- User-friendly interface for customization.  
 
-Features:
-1) Colored representation of step being executed.
-  1.1) Blue:default
-  1.2) Yellow: Being compared
-  1.3) Red: Identified as in incorrect position and to be moved
-  1.4) Green: In correct position
-2) 3 Controls for visualizations
-  2.1) Speed of visualization (5 speed levels)
-  2.2) Data size ()
-  2.3) Generation of new data (Randomly generate new data).
-4) Time and Space complexity of algorithm being visualized.
+## 🔧 Technologies Used  
+- **HTML5**: For structuring the web page.  
+- **CSS3**: For styling the components and adding animations.  
+- **JavaScript**: For implementing the sorting algorithms and controlling the visualization logic.  
 
-Take a look at live version: https://kethantummala.github.io/Sorting_Visualizer/
+## 📸 Preview  
+Visit the live demo here: [Sorting Visualizer](https://vedantsonar10.github.io/Sorting-Visulizer/)
+
+![Sorting Visualizer Demo](https://user-images.githubusercontent.com/placeholder/demo.png)  
+*Add a screenshot of your project here for better presentation.*  
+
+## 📝 How to Use  
+1. Visit the live demo link or clone the repository.  
+2. Adjust the array size and speed using the sliders provided.  
+3. Select a sorting algorithm from the menu.  
+4. Click the "Start Sorting" button to see the algorithm in action.  
+
+## 📂 Project Structure  
+Sorting-Visualizer/ │ ├── index.html # Main HTML file
+├── style.css # Styles for the project
+├── script.js # JavaScript file containing sorting logic
+└── README.md # Project README
+
+
+## 🚀 Getting Started Locally  
+To run the project on your local system:  
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/vedantsonar10/Sorting-Visualizer.git  
